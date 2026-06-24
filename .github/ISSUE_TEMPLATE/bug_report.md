@@ -45,3 +45,9 @@ assignees: ''
 - [ ] **Captura de Pantalla o Video:** [Inserta aquí]
 - [ ] **Log de Consola Frontend:** *Ejemplo: `Uncaught TypeError: Cannot read properties of undefined (reading 'map') at ProductList.vue:45`*
 - [ ] **Respuesta de Red (Network Tab):** *Ejemplo: Petición POST a `/api/products` devolvió código `422 Unprocessable Entity` con payload `{ message: "Validation failed" }`.*
+
+## 6. Definition of Done (Criterios de Aceptación)
+*El Pull Request no será aprobado a menos que cumpla estrictamente con esta lista.*
+- [ ] *Ejemplo: El botón 'Guardar' se deshabilita tras el primer clic y permanece inactivo mientras la petición está en curso.*
+- [ ] *Ejemplo: El campo 'Cantidad' muestra un mensaje de error en rojo si el valor ingresado no es numérico.*
+- [ ] *Ejemplo: El flujo completo se puede ejecutar sin que la consola del navegador registre errores.*
